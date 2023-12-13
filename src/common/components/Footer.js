@@ -53,7 +53,7 @@ const Footer = () => {
             Sukkur,Sindh
           </p>
           <p className="w-fit font-[Poppins] text-[1rem] tracking-[0.5px] font-normal leading-5 border-b border-[#ccc]  cursor-pointer my-[14px] mx-[0px]">
-            faizansolangi576@gmail.com
+            faizanahmed.bsef18@iba-suk.edu.pk
           </p>
           <p className="w-fit font-[Poppins] text-[1rem] tracking-[0.5px] font-normal leading-5 border-b border-[#ccc]  cursor-pointer my-[14px] mx-[0px]">
             babaralichanna18@gmail.com
@@ -62,7 +62,7 @@ const Footer = () => {
             muskanmatlan2001@gmail.com
           </p>
           <p className="cursor-pointer font-[Poppins] text-[1rem] tracking-[0.5px] font-normal leading-5">
-            +92 308 3372042
+            +92 308 3372042 / +92 315 1367901
           </p>
         </div>
         <div className="col px-[20px] pt-[20px] md:pt-[40px] ">
