@@ -10,6 +10,7 @@ import { SignUp } from "./screens/SignUP/SignUp";
 function App() {
   return (
     <div>
+    
       <Header />
       <Routes>
         <Route exact path="/" element={<Home />} />
