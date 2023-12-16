@@ -12,7 +12,7 @@ export const SignUp = () => {
       password: values.password,
     };
   };
-  return (
+  return(
     <div className="bg-stone-500 h-screen flex justify-center">
       <div className="flex flex-col justify-center items-center bg-lightGreen rounded-lg my-36 px-10 md:px-20">
         <div className="brandName">
