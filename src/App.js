@@ -1,4 +1,5 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes } from "react-router-dom";
 import Home from "./screens/home";
 import GoTopButton from "./common/components/GoTopButton";
@@ -10,7 +11,6 @@ import { SignUp } from "./screens/SignUP/SignUp";
 function App() {
   return (
     <div>
-    
       <Header />
       <Routes>
         <Route exact path="/" element={<Home />} />
